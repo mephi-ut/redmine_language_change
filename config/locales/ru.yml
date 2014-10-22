@@ -2,4 +2,6 @@
 ru:
   label_activity: Журнал
   label_roadmap: Дорожная карта
+  field_start_date: Начать выполнение
+  field_due_date: Срок выполнения
 
